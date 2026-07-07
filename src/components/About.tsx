@@ -40,7 +40,7 @@ export default function About() {
             {/* Main Image */}
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border-4 border-white">
               <img
-                src="/src/assets/images/drywall_painting_1783450871694.jpg"
+                src="/drywall_painting_1783450871694.jpg"
                 alt="Flawless drywall and paint finish by Pyrek's Construction"
                 className="w-full h-[450px] object-cover hover:scale-105 transition-transform duration-500"
                 referrerPolicy="no-referrer"
