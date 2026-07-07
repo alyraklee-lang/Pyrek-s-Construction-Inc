@@ -1,0 +1,6 @@
+{
+  "name": "Pyrek's Construction Inc",
+  "description": "Premium modern website for Pyrek's Construction Inc, a trusted general contractor specializing in home remodeling and residential renovations in Chicago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
