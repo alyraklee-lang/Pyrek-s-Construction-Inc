@@ -10,13 +10,13 @@ export default function BeforeAfter() {
   const images = {
     kitchen: {
       before: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=50&blur=10&sat=-100", // simulated outdated kitchen
-      after: "/src/assets/images/hero_kitchen_living_1783450837425.jpg", // our premium kitchen
+      after: "/hero_kitchen_living_1783450837425.jpg", // our premium kitchen
       title: "Luxury Kitchen Remodel",
       description: "Gutting an outdated, enclosed layout to construct a spacious, modern open-concept culinary space with natural wood cabinets, granite countertops, and premium lighting."
     },
     bathroom: {
       before: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=50&blur=10&sat=-100", // simulated outdated bath
-      after: "/src/assets/images/luxury_bathroom_1783450847257.jpg", // our premium bathroom
+      after: "/luxury_bathroom_1783450847257.jpg", // our premium bathroom
       title: "Modern Bathroom Renovation",
       description: "Replacing basic old fixtures with a glass walk-in shower, charcoal slate wall tiling, and dual oak vanity units with premium black brass details."
     }
