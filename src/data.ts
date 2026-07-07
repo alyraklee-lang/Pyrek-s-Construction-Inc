@@ -121,7 +121,7 @@ export const PROJECTS: Project[] = [
     id: "kitchen-remodel",
     title: "Luxury Kitchen Remodel",
     category: "Kitchens",
-    image: "/src/assets/images/hero_kitchen_living_1783450837425.jpg",
+    image: "/hero_kitchen_living_1783450837425.jpg",
     size: "340 sq ft",
     duration: "4 Weeks"
   },
@@ -129,7 +129,7 @@ export const PROJECTS: Project[] = [
     id: "bathroom-remodel",
     title: "Modern Bathroom Remodel",
     category: "Bathrooms",
-    image: "/src/assets/images/luxury_bathroom_1783450847257.jpg",
+    image: "/luxury_bathroom_1783450847257.jpg",
     size: "120 sq ft",
     duration: "2.5 Weeks"
   },
@@ -137,7 +137,7 @@ export const PROJECTS: Project[] = [
     id: "finished-basement",
     title: "Finished Basement Lounge",
     category: "Basements",
-    image: "/src/assets/images/finished_basement_1783450861912.jpg",
+    image: "/finished_basement_1783450861912.jpg",
     size: "950 sq ft",
     duration: "5 Weeks"
   },
@@ -145,7 +145,7 @@ export const PROJECTS: Project[] = [
     id: "interior-painting",
     title: "Interior Painting & Trim",
     category: "Painting",
-    image: "/src/assets/images/drywall_painting_1783450871694.jpg",
+    image: "/drywall_painting_1783450871694.jpg",
     size: "Whole Home",
     duration: "1.5 Weeks"
   },
