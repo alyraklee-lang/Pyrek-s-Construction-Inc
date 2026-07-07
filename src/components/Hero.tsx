@@ -19,7 +19,7 @@ export default function Hero() {
       {/* Background Image with elegant dark overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_kitchen_living_1783450837425.jpg"
+          src="/hero_kitchen_living_1783450837425.jpg"
           alt="Luxury Kitchen and Living Room Remodel by Pyrek's Construction"
           className="w-full h-full object-cover scale-105 animate-[subtle-zoom_20s_infinite_alternate]"
           referrerPolicy="no-referrer"
